@@ -6,7 +6,7 @@
       Robot engineering
       ・ROS(python) 
       Web thechnology
-     　・Django
+      ・Django
 - 💞️ I’m looking to collaborate on #
 - 📫 How to reach me
       ・
