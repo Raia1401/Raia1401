@@ -1,9 +1,12 @@
 - 👋 Hi, I’m @Raia1401
 - 👀 I’m interested in human robot intaraction
 - 🌱 I’m currently learning 
-      ・OpenCV
-      ・ROS programing 
-      ・
+-     Image Recognition <br>
+      ・OpenCV(Python) <br>
+      Robot engineering<br>
+      ・ROS(python) <br>
+      Web thechnology<br>
+     　・Django<br>
 - 💞️ I’m looking to collaborate on #
 - 📫 How to reach me
       ・
