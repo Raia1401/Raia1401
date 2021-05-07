@@ -3,10 +3,12 @@
 - 🌱 I’m currently learning 
 -     Image Recognition 
       ・OpenCV(Python) 
-      Robot engineering
+      Robot softwear engineering
       ・ROS(python) 
-      Web thechnology
+      Web Backend
       ・Django
+      Web Frontend
+      .HTML,CSS,Django
 - 💞️ I’m looking to collaborate on #
 - 📫 How to reach me
       ・
