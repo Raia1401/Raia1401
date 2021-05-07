@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning 
 -     Image Recognition 
       ・OpenCV(Python) 
+      ・TensorFrow,
       Robot softwear engineering
       ・ROS(python) 
       Web Backend
