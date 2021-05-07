@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Raia1401
+- 👋 Hi, I’m @Raia1401 Kyoto_University_Student.M1
 - 👀 I’m interested in human robot intaraction
 - 🌱 I’m currently learning 
 -     Image Recognition 
