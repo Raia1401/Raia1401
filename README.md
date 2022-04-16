@@ -9,9 +9,7 @@
       Web Backend
       ・Django
       Web Frontend
-      .HTML,CSS,Django
-- 💞️ I’m looking to collaborate on #
-- 📫 How to reach me
+      .HTML,CSS,React
       ・
 
 <!---
