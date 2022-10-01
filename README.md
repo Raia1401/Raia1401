@@ -1,15 +1,14 @@
 - 👋 Hi, I’m @Raia1401 
-- 👀 I’m interested in robot
 - 🌱 I’m currently learning 
 -     Image Recognition 
       ・OpenCV(Python) 
-      ・TensorFrow,
+      ・TensorFrow
       Robot softwear engineering
       ・ROS(python) 
       Web Backend
-      ・Django
+      ・Python,Go,Java
       Web Frontend
-      .HTML,CSS,React
+      .HTML,CSS,Javascript(React)
       ・
 
 <!---
