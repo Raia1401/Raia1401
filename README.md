@@ -1,16 +1,4 @@
 - 👋 Hi, I’m @Raia1401 
-- 🌱 I’m currently learning 
--     Web Backend
-      ・Python,Go,Java
-      Web Frontend
-      .HTML,CSS,Javascript(React)
-      Robot Softwear
-      ・ROS(python)
-      Image Recognition 
-      ・OpenCV(Python) 
-      ・TensorFrow
-
-
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Raia1401)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Raia1401)
 <!---
